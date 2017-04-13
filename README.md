@@ -9,3 +9,4 @@ About the application:
 The application is for dragon ball fans and community. It lets users view characters, series, saga information. It lets users compete against the computer and themselves. 
 The web application is very secure as it prevents SQLi,XSS attacks using htmlspecialchars, escaping strings, prepared statements. It also includes situational awareness which basically means the application logs invalid and valid login attempts. It also prevents brute force attacks. 
 
+Admin has super privileges like adding new users, new characters, delete users, viewing log activity, and unrestricted access into the application. 
