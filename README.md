@@ -3,7 +3,7 @@ This contains web application codes that were used in building my Dragon Ball us
 
 
 Infrasture:
-2 Fedora  25 Servers. One is a publicly visible web server and the other in a firewalled MariaDB server. 
+2 Fedora  25 Servers. One is a publicly visible web server and the other is a firewalled MariaDB server. 
 
 About the application:
 The application is for dragon ball fans and community. It lets users view characters, series, saga information. It lets users compete against the computer and themselves. 
