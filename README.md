@@ -13,5 +13,5 @@ Admin has super privileges like adding new users, new characters, delete users, 
 
 NOTE: You cannot use these codes for your own purpose without my permission.
 
-Contact : sampreet.kishan@colorado.edu
+Contact : saki8093@colorado.edu
 
